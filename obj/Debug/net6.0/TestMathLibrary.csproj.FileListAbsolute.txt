@@ -1,0 +1,12 @@
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\bin\Debug\net6.0\TestMathLibrary.deps.json
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\bin\Debug\net6.0\TestMathLibrary.dll
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\bin\Debug\net6.0\TestMathLibrary.pdb
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.csproj.AssemblyReference.cache
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.AssemblyInfoInputs.cache
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.AssemblyInfo.cs
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.csproj.CoreCompileInputs.cache
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.dll
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\refint\TestMathLibrary.dll
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\TestMathLibrary.pdb
+E:\CSharp\Dev\TestMathLib\TestMathLibrary\obj\Debug\net6.0\ref\TestMathLibrary.dll
